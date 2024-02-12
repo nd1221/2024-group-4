@@ -71,3 +71,5 @@ Description: Pac-Man is a  classic arcade game that was created by Namco in 1980
 Twist: In our version of Pac-Man, both the character and the ghost will be controled by AI, and the player's task is to build blocks to keep the ghosts away from the character and all the dots that are eaten by the character will become money which can be used to buy more blocks, and there are different kinds of blocks that can be bought which have different abilities like transport the character or stop the ghost for a while.
    
 Challenges: how to create different kinds of blocks? how to design the AI for the character and the ghost? how to balance the game difficulty?
+
+dddd
